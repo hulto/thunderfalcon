@@ -1,0 +1,6 @@
+Set-ADAccountPassword -Identity PPTH\Wilson -OldPassword (ConvertTo-SecureString -AsPlainText "Changeme!" -Force) -NewPassword (ConvertTo-SecureString -AsPlainText "D@vesMag!cBall$1234" -Force)
+Set-ADAccountPassword -Identity PPTH\House -OldPassword (ConvertTo-SecureString -AsPlainText "Changeme!" -Force) -NewPassword (ConvertTo-SecureString -AsPlainText "D@vesMag!cBall$1234" -Force)
+Set-ADAccountPassword -Identity PPTH\Wilson -OldPassword (ConvertTo-SecureString -AsPlainText "Changeme!" -Force) -NewPassword (ConvertTo-SecureString -AsPlainText "D@vesMag!cBall$1234" -Force)
+Set-ADAccountPassword -Identity PPTH\Cameron3 -OldPassword (ConvertTo-SecureString -AsPlainText "Changeme!" -Force) -NewPassword (ConvertTo-SecureString -AsPlainText "D@vesMag!cBall$1234" -Force)
+Set-ADAccountPassword -Identity PPTH\Vogler -OldPassword (ConvertTo-SecureString -AsPlainText "Changeme!" -Force) -NewPassword (ConvertTo-SecureString -AsPlainText "D@vesMag!cBall$1234" -Force)
+Set-ADAccountPassword -Identity PPTH\Cuddy -OldPassword (ConvertTo-SecureString -AsPlainText "Changeme!" -Force) -NewPassword (ConvertTo-SecureString -AsPlainText "D@vesMag!cBall$1234" -Force)
