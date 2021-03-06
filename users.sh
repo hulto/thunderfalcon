@@ -17,4 +17,4 @@ echo -e "samuraiwarriorsforlyfe\nsamuraiwarriorsforlyfe" | sudo passwd tenji
 echo -e "toomanypassnotenoughculture\ntoomanypassnotenoughculture" | sudo passwd kobun
 echo -e "toomanypassnotenoughculture\ntoomanypassnotenoughculture" | sudo passwd jito
 echo -e "iamnotokay69\niamnotokay69" | sudo passwd monmu
-echo -e "plzletuswin6969\nplzletuswin6969" | sudo passwd geme
+echo -e "plzletuswin6969\nplzletuswin6969" | sudo passwd gemei
