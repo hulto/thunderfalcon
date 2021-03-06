@@ -8,7 +8,7 @@ echo -e "whateverbruh4\nwhateverbruh4" | sudo passwd kinmei
 echo -e "cybercool2\ncybercool2" | sudo passwd bidatsu
 echo -e "nonyabiz3\nnonyabiz3" | sudo passwd yomei
 echo -e "japaneseculturemyguy\njapaneseculturemyguy" | sudo passwd sushun
-echo -e "ifyouwantowinjustwinmyguy\nifyouwanttowinjustwinmyguy" | sudo passwd suiko
+echo -e "ifyouwanttowinjustwinmyguy\nifyouwanttowinjustwinmyguy" | sudo passwd suiko
 echo -e "yodonthackme4\nyodonthackme4" | sudo passwd jomei
 echo -e "yodonthackme4\nyodonthackme4" | sudo passwd kogyoku
 echo -e "wearenotokay1\nwearenotokay1" | sudo passwd kotoku
