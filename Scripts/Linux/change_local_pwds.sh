@@ -12,7 +12,7 @@ echo "Users:" | cat user-list.txt
 # Assign secure password to users
 for user in `more user-list.txt`
 do
-echo "D@vesMag!cBall$" | passwd --stdin "$user"
+echo "D@vesMag!c*****" | passwd --stdin "$user"
 chage -d 0 $user
 done
 
